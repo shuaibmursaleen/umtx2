@@ -31,6 +31,16 @@ const payload_map = [
     //     supportedFirmwares: ["1.", "2.", "3.", "4.", "5."]
     // },
     {
+        displayTitle: "VoidShell 3.0",
+        description: "voidshell 3.0 by VoidWhisper, a custom homebrew loader with a built in web server to load payloads and homebrew over the network.",
+        fileName: "voidshell.elf",
+        author: "VoidWhisper, idlesauce",
+        projectSource: "",
+        binarySource: "",
+        version: "3.0",
+        toPort: 9021
+    },
+    {
         displayTitle: "etaHEN",
         description: "AIO HEN",
         fileName: "etaHEN-2.4B.bin",
