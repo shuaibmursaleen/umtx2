@@ -51,6 +51,16 @@ const payload_map = [
         toPort: 9021
     },
     {
+        displayTitle: "PS5 Linux Loader",
+        description: "Linux loader for PS5",
+        fileName: "ps5-linux-loader.elf",
+        author: "theflow",
+        projectSource: "https://github.com/ps5-linux/ps5-linux-loader",
+        binarySource: "https://github.com/ps5-linux/ps5-linux-loader/releases/tag/v2.1",
+        version: "2.1",
+        toPort: 9021
+    },
+    {
         displayTitle: "ps5-kstuff",
         description: "FPKG enabler",
         fileName: "kstuff.elf",
