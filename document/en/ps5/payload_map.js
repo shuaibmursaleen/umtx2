@@ -31,13 +31,13 @@ const payload_map = [
     //     supportedFirmwares: ["1.", "2.", "3.", "4.", "5."]
     // },
     {
-        displayTitle: "VoidShell 3.0",
-        description: "voidshell 3.0 by VoidWhisper, a custom homebrew loader with a built in web server to load payloads and homebrew over the network.",
-        fileName: "voidshell.elf",
-        author: "VoidWhisper, idlesauce",
-        projectSource: "",
-        binarySource: "",
-        version: "3.0",
+        displayTitle: "Payload Manager",
+        description: "Payload manager",
+        fileName: "pldmgr_v0.3.1.elf",
+        author: "itsPLK",
+        projectSource: "https://github.com/itsPLK/ps5-payload-manager",
+        binarySource: "https://github.com/itsPLK/ps5-payload-manager/releases/tag/v0.3.1",
+        version: "0.3.1",
         toPort: 9021
     },
     {
